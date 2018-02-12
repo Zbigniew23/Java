@@ -8,10 +8,11 @@ public class Palindrom3
 	
 	public static void main(String[] args)
 	{
-		Palindrom3 pal = new Palindrom3();
+		//hfipygw9qr[ger]\qgu31-gjuhrio'ehgw964rjkgrruoqhgwr80gr]yg8rgh
 		 System.out.println(Palindrom3.isPalindrome(x));
 		 System.out.println(Palindrom3.isPalindrome(y));
 		 System.out.println(Palindrom3.isPalindrome(z));
+		 System.out.println(Palindrom3.isPalindrome(78952));
 	}
 	
 	private static boolean isPalindrome(Integer u) {

@@ -12,7 +12,6 @@ public class Palindrom3
 		 System.out.println(Palindrom3.isPalindrome(x));
 		 System.out.println(Palindrom3.isPalindrome(y));
 		 System.out.println(Palindrom3.isPalindrome(z));
-		 System.out.println(Palindrom3.isPalindrome(11479));
 	}
 	
 	private static boolean isPalindrome(Integer u) {

@@ -1,5 +1,3 @@
-package com.interview.questions;
-
 public class Palindrome
 {
   static int x = 11122111;

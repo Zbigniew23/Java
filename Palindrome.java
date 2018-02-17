@@ -1,15 +1,16 @@
 public class Palindrome
 {
-  static int x = 11122111;
-  static int y = 115556811;
-  static int z = 171;
-	
+  static int a = 11122111;
+  static int b = 115739811;
+  static int c = 171;
+	// sinus cosinus 
+  
 	public static void main(String[] args)
 	{
 		Palindrom3 pal = new Palindrom3();
-		 System.out.println(Palindrom3.isPalindrome(x));
-		 System.out.println(Palindrom3.isPalindrome(y));
-		 System.out.println(Palindrom3.isPalindrome(z));
+		 System.out.println(Palindrom3.isPalindrome(a));
+		 System.out.println(Palindrom3.isPalindrome(b));
+		 System.out.println(Palindrom3.isPalindrome(c));
 	}
 	
 	private static boolean isPalindrome(Integer u) {
